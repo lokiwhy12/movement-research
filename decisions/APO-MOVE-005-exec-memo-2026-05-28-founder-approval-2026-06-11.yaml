@@ -1,0 +1,13 @@
+branch: approve-pair
+approved_primitives:
+  - pull-factor onboarding
+  - ritual map
+starter_loop_survives_unchanged: yes
+route_architect_now: yes
+requested_edits: ""
+source_reply: "rec approved. do it."
+source_chat_id: "telegram:<TELEGRAM_CHAT_ID>"
+source_message_id: "4520"
+source_timestamp_utc: "2026-06-11T06:07:00Z"
+recorded_by: gaia
+recorded_at_utc: "2026-06-11T06:07:00Z"

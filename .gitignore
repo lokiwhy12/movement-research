@@ -1,0 +1,8 @@
+# never commit secrets or credentials
+*.env
+.env
+credentials/
+*.key
+*.pem
+*device-auth*.json
+.DS_Store
