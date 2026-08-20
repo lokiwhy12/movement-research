@@ -336,7 +336,7 @@ These are the durable instructions. If the project restarts anywhere, these carr
 5. **Nothing operationalized ships against finance/legal direction.** Every target packet ends with a risks-and-questions-for-review section.
 6. **No moralizing.** Religion, community structures, tax incentives — respectful and practical, never accusatory or preachy.
 7. **Full spectrum, including the ugly mechanics.** Rituals and why they work; rate efficacy across the whole range, sex and drug-induced enlightenment included. Ignore hostile sources' cynicism and take their mechanics.
-8. **Paraphrase is fine.** "i dont care about verbatim" — analysis and synthesis over literal transcription.
+8. **Keep the author's named terms.** A short cited definitional line when the wording is the claim. Paraphrase the rest. Analysis over transcription. I don't care about verbatim.
 9. **Progress is measured in new substantive output, not maintenance.** README rewiring, path fixes, and doc re-syncing do not count as progress.
 10. **The documentation is part of the deliverable.** Docs must have an actual purpose supporting the project, no duplicates, no stale files, and a canonical map so the folder "reads like a real system instead of an archaeology site."
 11. **Keep the movement R&D lane separate from founder-brand marketing.** Formalized 2026-03-17.
